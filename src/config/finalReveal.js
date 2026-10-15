@@ -22,5 +22,5 @@ export const FINAL = {
   ],
   signature: 'Forever yours, Bujik',
   replayLabel: 'Replay the final surprise',
-  note: 'You can jump here any time from the menu — no need to finish every game first.',
+  note: 'You can jump here any time from the menu.',
 };

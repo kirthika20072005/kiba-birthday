@@ -88,6 +88,16 @@
   }
 }
 
+/* Small phones: roomier countdown + single-column media grids */
+@media (max-width: 480px) {
+  .countdown-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .envelope-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Phones */
 @media (max-width: 620px) {
   :root {
