@@ -3,6 +3,7 @@ import { VIDEOS, BIRTHDAY_VIDEO, VIDEO_MISSING_HINT } from '../../config/videos.
 import SectionShell from '../layout/SectionShell.jsx';
 import Reveal from '../ui/Reveal.jsx';
 import Modal from '../ui/Modal.jsx';
+import Icon from '../ui/Icon.jsx';
 
 function VideoCard({ video }) {
   const ref = useRef(null);
@@ -48,7 +49,7 @@ function VideoCard({ video }) {
         ) : (
           <div className="video-missing">
             <span className="video-missing-emoji" aria-hidden="true">
-              {video.emoji || '🎬'}
+              <Icon name={video.icon || 'film'} size={40} />
             </span>
             <p>{VIDEO_MISSING_HINT}</p>
           </div>
@@ -57,13 +58,15 @@ function VideoCard({ video }) {
 
       <div className="video-meta">
         <h3 className="video-title">
-          <span aria-hidden="true">{video.emoji || '🎬'} </span>
+          <span className="video-title-icon" aria-hidden="true">
+            <Icon name={video.icon || 'film'} size={18} />
+          </span>
           {video.title}
         </h3>
         {video.caption && <p className="video-caption">{video.caption}</p>}
         {hasSrc && (
           <button className="btn btn-primary btn-sm" onClick={toggle} aria-pressed={playing}>
-            {playing ? '⏸ Pause' : '▶ Play'}
+            {playing ? 'Pause' : 'Play'}
           </button>
         )}
       </div>
@@ -86,7 +89,7 @@ export default function Videos() {
   return (
     <SectionShell id="videos" labelledBy="videos-title" className="videos">
       <Reveal className="section-head">
-        <span className="kicker">🎬 In motion</span>
+        <span className="kicker">In motion</span>
         <h2 className="section-title" id="videos-title">
           Moments That Move
         </h2>
@@ -103,12 +106,12 @@ export default function Videos() {
 
       <Reveal className="birthday-video-cta glass">
         <div className="bvc-copy">
-          <span className="kicker">🎁 A special one</span>
+          <span className="kicker">A special one</span>
           <h3 className="bvc-title">{BIRTHDAY_VIDEO.title}</h3>
           <p className="bvc-sub">{BIRTHDAY_VIDEO.preRoll}</p>
         </div>
         <button className="btn btn-hero" onClick={() => setShowBirthday(true)}>
-          🎧 Watch the message
+          Watch the message
         </button>
       </Reveal>
 
@@ -116,11 +119,11 @@ export default function Videos() {
         {!warned ? (
           <div className="video-warning">
             <h3 id="bd-title" className="video-warning-title">
-              🎧 Put on your headphones
+              Put on your headphones
             </h3>
             <p className="video-warning-text">{BIRTHDAY_VIDEO.preRoll}</p>
             <button className="btn btn-hero" onClick={startBirthday}>
-              I&apos;m ready ❤️
+              I&apos;m ready
             </button>
           </div>
         ) : (
@@ -137,7 +140,7 @@ export default function Videos() {
                   e.currentTarget.replaceWith(
                     Object.assign(document.createElement('div'), {
                       className: 'video-missing',
-                      innerHTML: `<span class="video-missing-emoji">${BIRTHDAY_VIDEO.emoji}</span><p>${VIDEO_MISSING_HINT}</p>`,
+                      innerHTML: `<span class="video-missing-emoji"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m10 9 5 3-5 3V9Z"/></svg></span><p>${VIDEO_MISSING_HINT}</p>`,
                     })
                   );
                 }}

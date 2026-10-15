@@ -1,3 +1,5 @@
+import Icon from './Icon.jsx';
+
 /**
  * A vintage sealed envelope. Purely presentational — the parent controls
  * `open` so it can play a modal, expand inline, etc.
@@ -9,7 +11,6 @@ export default function Envelope({
   open = false,
   onToggle,
   name,
-  sealEmoji = '💌',
   hue = 340,
   hint = 'Click to open',
   variant = 'hero',
@@ -39,7 +40,9 @@ export default function Envelope({
       >
         <span className="env-flap" aria-hidden="true" />
         <span className="env-body" aria-hidden="true">
-          <span className="env-seal">{sealEmoji}</span>
+          <span className="env-seal">
+            <Icon name="heart" size={20} />
+          </span>
         </span>
         <span className="env-meta">
           <span className="env-title">{name}</span>

@@ -4,6 +4,7 @@ import SectionShell from '../layout/SectionShell.jsx';
 import Reveal from '../ui/Reveal.jsx';
 import Envelope from '../ui/Envelope.jsx';
 import Modal from '../ui/Modal.jsx';
+import Icon from '../ui/Icon.jsx';
 import { useProgress } from '../../context/ProgressContext.jsx';
 
 export default function OpenWhen() {
@@ -21,7 +22,7 @@ export default function OpenWhen() {
   return (
     <SectionShell id="openwhen" labelledBy="openwhen-title" className="openwhen">
       <Reveal className="section-head">
-        <span className="kicker">✉️ Just in case</span>
+        <span className="kicker">Just in case</span>
         <h2 className="section-title" id="openwhen-title">
           Open When…
         </h2>
@@ -43,7 +44,6 @@ export default function OpenWhen() {
                 open={isOpen}
                 onToggle={() => (isOpen ? setOpenId(null) : openLetter(item))}
                 name={item.title}
-                sealEmoji={item.seal || '💌'}
                 hue={item.hue ?? 340}
                 hint="Open"
                 openedLabel="Opened ✓"
@@ -59,7 +59,7 @@ export default function OpenWhen() {
         {active && (
           <div className="ow-modal">
             <span className="ow-modal-seal" aria-hidden="true">
-              {active.seal}
+              <Icon name="heart" size={30} />
             </span>
             <h3 id="ow-modal-title" className="ow-modal-title">
               {active.title}

@@ -19,7 +19,6 @@ export const TRACKS = [
     artist: 'Add an artist name',
     src: 'assets/audio/track-1.mp3',
     art: null,
-    emoji: '🎵',
   },
   {
     id: 'track-2',
@@ -27,7 +26,6 @@ export const TRACKS = [
     artist: 'Add an artist name',
     src: 'assets/audio/track-2.mp3',
     art: null,
-    emoji: '🎶',
   },
 ];
 

@@ -4,6 +4,7 @@ import SectionShell from '../layout/SectionShell.jsx';
 import Reveal from '../ui/Reveal.jsx';
 import GiftBox from '../ui/GiftBox.jsx';
 import Modal from '../ui/Modal.jsx';
+import Icon from '../ui/Icon.jsx';
 import { useProgress } from '../../context/ProgressContext.jsx';
 import { scrollToId } from '../../lib/misc.js';
 import { fireConfetti } from '../effects/ConfettiLayer.jsx';
@@ -27,12 +28,12 @@ export default function Gifts() {
   return (
     <SectionShell id="gifts" labelledBy="gifts-title" className="gifts">
       <Reveal className="section-head">
-        <span className="kicker">🎁 Wrapped for you</span>
+        <span className="kicker">Wrapped for you</span>
         <h2 className="section-title" id="gifts-title">
           A Few Gifts
         </h2>
         <p className="section-sub">
-          Open them in any order — but save the big one for last. 😉
+          Open them in any order — but save the big one for last.
         </p>
       </Reveal>
 
@@ -44,7 +45,7 @@ export default function Gifts() {
             opened={opened.has(g.id)}
             size={g.size}
             wrap={g.wrap}
-            emoji={g.emoji}
+            icon={g.icon}
             title={g.title}
             onToggle={() => openGift(g)}
           />
@@ -54,7 +55,9 @@ export default function Gifts() {
       <Modal open={!!active} onClose={() => setActiveId(null)} labelledBy="gift-modal-title">
         {active && (
           <div className={`gift-reveal gift-reveal-${active.type}`}>
-            <span className="gift-reveal-emoji" aria-hidden="true">{active.emoji}</span>
+            <span className="gift-reveal-emoji" aria-hidden="true">
+              <Icon name={active.icon} size={46} />
+            </span>
             <h3 id="gift-modal-title" className="gift-reveal-title">
               {active.title}
             </h3>

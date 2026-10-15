@@ -6,6 +6,7 @@ import { useProgress } from '../../context/ProgressContext.jsx';
 import { VIDEO_MISSING_HINT } from '../../config/videos.js';
 import { fireConfetti } from '../effects/ConfettiLayer.jsx';
 import { useReducedMotion } from '../../hooks/useReducedMotion.js';
+import Icon from '../ui/Icon.jsx';
 
 const hasEmbed = (v) => !!v.embed;
 const hasSrc = (v) => !!v.src;
@@ -41,7 +42,7 @@ export default function FinalReveal() {
     <SectionShell id="final" labelledBy="final-title" className="final">
       {stage !== 'cinema' && (
         <Reveal className="section-head">
-          <span className="kicker">❤️ The last page</span>
+          <span className="kicker">The last page</span>
           <h2 className="section-title" id="final-title">
             {FINAL.title}
           </h2>
@@ -80,7 +81,9 @@ export default function FinalReveal() {
               />
             ) : (
               <div className="final-missing">
-                <span className="final-missing-emoji" aria-hidden="true">{v.emoji}</span>
+                <span className="final-missing-emoji" aria-hidden="true">
+                  <Icon name="film" size={52} />
+                </span>
                 <p>{VIDEO_MISSING_HINT}</p>
               </div>
             )}

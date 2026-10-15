@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useMusic } from '../../context/MusicContext.jsx';
 import { cx } from '../../lib/misc.js';
+import Icon from '../ui/Icon.jsx';
 
 /**
  * Music toggle + minimal player.
@@ -60,11 +61,15 @@ export default function MusicPlayer() {
           <p className="music-track">{track.title}</p>
 
           <div className="music-nav">
-            <button onClick={prev} aria-label="Previous track">⏮</button>
-            <button onClick={toggle} aria-label={playing ? 'Pause' : 'Play'}>
-              {playing ? '⏸' : '▶'}
+            <button onClick={prev} aria-label="Previous track">
+              <Icon name="prev" size={18} />
             </button>
-            <button onClick={next} aria-label="Next track">⏭</button>
+            <button onClick={toggle} aria-label={playing ? 'Pause' : 'Play'}>
+              <Icon name={playing ? 'pause' : 'play'} size={18} />
+            </button>
+            <button onClick={next} aria-label="Next track">
+              <Icon name="next" size={18} />
+            </button>
           </div>
 
           <div className="music-vol">
@@ -73,7 +78,7 @@ export default function MusicPlayer() {
               aria-pressed={muted}
               aria-label={muted ? 'Unmute' : 'Mute'}
             >
-              {muted ? '🔇' : '🔊'}
+              <Icon name={muted ? 'speakerX' : 'speaker'} size={18} />
             </button>
             <input
               type="range"

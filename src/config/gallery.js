@@ -19,11 +19,11 @@
    ============================================================ */
 
 export const CATEGORIES = [
-  { id: 'all', label: 'Everything', emoji: '🌌' },
-  { id: 'favorites', label: 'Favorite Memories', emoji: '💖' },
-  { id: 'cute', label: 'Cute Moments', emoji: '🐾' },
-  { id: 'funny', label: 'Funny Moments', emoji: '🤣' },
-  { id: 'special', label: 'Special Days', emoji: '🌟' },
+  { id: 'all', label: 'Everything' },
+  { id: 'favorites', label: 'Favorite Memories' },
+  { id: 'cute', label: 'Cute Moments' },
+  { id: 'funny', label: 'Funny Moments' },
+  { id: 'special', label: 'Special Days' },
 ];
 
 export const GALLERY = [
@@ -33,7 +33,6 @@ export const GALLERY = [
     note: '“You make every ordinary day feel like a festival — but that day, the whole world was celebrating you, and so was I.”',
     date: null,
     category: 'special',
-    emoji: '🎂',
   },
   {
     src: 'assets/images/us-05.jpeg',
@@ -41,7 +40,6 @@ export const GALLERY = [
     note: '“Proof that my favourite time of day is whatever o’clock it is when you’re being ridiculous next to me.”',
     date: null,
     category: 'funny',
-    emoji: '🌙',
   },
   {
     src: 'assets/images/us-06.jpeg',
@@ -49,7 +47,6 @@ export const GALLERY = [
     note: '“Your hand in mine still feels like the first time — like I found the place I was always supposed to be.”',
     date: '2025-05-18',
     category: 'favorites',
-    emoji: '🤝',
   },
   {
     src: 'assets/images/us-07.jpeg',
@@ -57,7 +54,6 @@ export const GALLERY = [
     note: '“That grin should be illegal. Every time you do that, I forget whatever I was saying.”',
     date: null,
     category: 'cute',
-    emoji: '😊',
   },
   {
     src: 'assets/images/us-08.jpeg',
@@ -65,7 +61,6 @@ export const GALLERY = [
     note: '“Some days are loud and some are quiet — this one was ours, and that’s what made it unforgettable.”',
     date: null,
     category: 'special',
-    emoji: '🎗️',
   },
   {
     src: 'assets/images/us-09.jpeg',
@@ -73,7 +68,6 @@ export const GALLERY = [
     note: '“No posing, no pretending — just us, exactly as we are, and exactly as I love.”',
     date: null,
     category: 'favorites',
-    emoji: '💖',
   },
   {
     src: 'assets/images/us-10.jpeg',
@@ -81,7 +75,6 @@ export const GALLERY = [
     note: '“If you ever wonder what you look like when you’re happy — it’s this. I memorised it.”',
     date: null,
     category: 'cute',
-    emoji: '🐾',
   },
   {
     src: 'assets/images/us-11.jpeg',
@@ -89,7 +82,6 @@ export const GALLERY = [
     note: '“My cheeks hurt, I couldn’t breathe, and I wouldn’t trade that laugh for anything.”',
     date: null,
     category: 'funny',
-    emoji: '🤣',
   },
   {
     src: 'assets/images/us-12.jpeg',
@@ -97,7 +89,6 @@ export const GALLERY = [
     note: '“We don’t need a reason to celebrate — but having you is reason enough every single day.”',
     date: null,
     category: 'special',
-    emoji: '🌟',
   },
   {
     src: 'assets/images/us-13.jpeg',
@@ -105,7 +96,6 @@ export const GALLERY = [
     note: '“If I could replay one moment on loop forever, it would be this one.”',
     date: null,
     category: 'favorites',
-    emoji: '💖',
   },
   {
     src: 'assets/images/us-14.jpeg',
@@ -113,7 +103,6 @@ export const GALLERY = [
     note: '“Warning: excessive cuteness. Side effects include smiling at your phone like an idiot.”',
     date: null,
     category: 'cute',
-    emoji: '🐾',
   },
   {
     src: 'assets/images/us-15.jpeg',
@@ -121,7 +110,6 @@ export const GALLERY = [
     note: '“You bring out the silliest version of me, and honestly? She’s my favourite version.”',
     date: null,
     category: 'funny',
-    emoji: '🤣',
   },
   {
     src: 'assets/images/us-16.jpeg',
@@ -129,7 +117,6 @@ export const GALLERY = [
     note: '“Not marked on any calendar, but marked forever in my heart.”',
     date: null,
     category: 'special',
-    emoji: '🌟',
   },
   {
     src: 'assets/images/us-17.jpeg',
@@ -137,7 +124,6 @@ export const GALLERY = [
     note: '“Crowded rooms fade away when it’s just us. It’s always just us.”',
     date: null,
     category: 'favorites',
-    emoji: '💖',
   },
   {
     src: 'assets/images/us-18.jpeg',
@@ -145,7 +131,6 @@ export const GALLERY = [
     note: '“Soft smiles, warm hearts — this is what happiness looks like up close.”',
     date: null,
     category: 'cute',
-    emoji: '🐾',
   },
   {
     src: 'assets/images/us-19.jpeg',
@@ -153,7 +138,6 @@ export const GALLERY = [
     note: '“Normal is overrated. I’ll take silly-with-you over anything, any day.”',
     date: null,
     category: 'funny',
-    emoji: '🤣',
   },
   {
     src: 'assets/images/us-20.jpeg',
@@ -161,7 +145,6 @@ export const GALLERY = [
     note: '“Some moments deserve a frame. This one deserves a whole gallery.”',
     date: null,
     category: 'special',
-    emoji: '🌟',
   },
   {
     src: 'assets/images/us-21.jpeg',
@@ -169,7 +152,6 @@ export const GALLERY = [
     note: '“Mountains, oceans, sunsets — none of them stand a chance against this view.”',
     date: null,
     category: 'favorites',
-    emoji: '💖',
   },
   {
     src: 'assets/images/us-22.jpeg',
@@ -177,7 +159,6 @@ export const GALLERY = [
     note: '“I keep this one in my pocket for bad days. One look and everything feels lighter.”',
     date: null,
     category: 'cute',
-    emoji: '🐾',
   },
   {
     src: 'assets/images/us-23.jpeg',
@@ -185,7 +166,6 @@ export const GALLERY = [
     note: '“You started it. You always start it. Please never stop starting it.”',
     date: null,
     category: 'funny',
-    emoji: '🤣',
   },
   {
     src: 'assets/images/us-24.jpeg',
@@ -193,7 +173,6 @@ export const GALLERY = [
     note: '“Everything glowed that day — or maybe that’s just what the world looks like when I’m with you.”',
     date: null,
     category: 'special',
-    emoji: '🌟',
   },
   {
     src: 'assets/images/us-25.jpeg',
@@ -201,7 +180,6 @@ export const GALLERY = [
     note: '“My heart was so full in this moment, I swear it grew a size.”',
     date: null,
     category: 'favorites',
-    emoji: '💖',
   },
   {
     src: 'assets/images/us-26.jpeg',
@@ -209,7 +187,6 @@ export const GALLERY = [
     note: '“No big gestures, no grand words — just your soft smile, and that was everything.”',
     date: null,
     category: 'cute',
-    emoji: '🐾',
   },
   {
     src: 'assets/images/us-27.jpeg',
@@ -217,7 +194,6 @@ export const GALLERY = [
     note: '“I’d pay good money to watch that moment again. Actually — I’d pay anything.”',
     date: null,
     category: 'funny',
-    emoji: '🤣',
   },
   {
     src: 'assets/images/us-28.jpeg',
@@ -225,7 +201,6 @@ export const GALLERY = [
     note: '“Happiness looks good on us. Really, really good.”',
     date: null,
     category: 'special',
-    emoji: '🌟',
   },
   {
     src: 'assets/images/us-29.jpeg',
@@ -233,7 +208,6 @@ export const GALLERY = [
     note: '“Out of every moment we’ve ever had, this one sits in a very special place.”',
     date: null,
     category: 'favorites',
-    emoji: '💖',
   },
   {
     src: 'assets/images/us-30.jpeg',
@@ -241,7 +215,6 @@ export const GALLERY = [
     note: '“Kept forever: this moment, this smile, this boy.”',
     date: null,
     category: 'cute',
-    emoji: '🐾',
   },
   {
     src: 'assets/images/us-31.jpeg',
@@ -249,7 +222,6 @@ export const GALLERY = [
     note: '“Nobody else would understand why this is funny. That’s exactly why I love it.”',
     date: null,
     category: 'funny',
-    emoji: '🤣',
   },
   {
     src: 'assets/images/us-32.jpeg',
@@ -257,7 +229,6 @@ export const GALLERY = [
     note: '“I’m keeping this day. It’s mine now. Ours, I mean — it’s ours.”',
     date: null,
     category: 'special',
-    emoji: '🌟',
   },
   {
     src: 'assets/images/us-33.jpeg',
@@ -265,7 +236,6 @@ export const GALLERY = [
     note: '“Us again, as always, exactly where we belong — together.”',
     date: null,
     category: 'favorites',
-    emoji: '💖',
   },
   {
     src: 'assets/images/us-34.jpeg',
@@ -273,7 +243,6 @@ export const GALLERY = [
     note: '“Happiness isn’t always big. Sometimes it’s this small, this quiet, this perfect.”',
     date: null,
     category: 'cute',
-    emoji: '🐾',
   },
   {
     src: 'assets/images/us-35.jpeg',
@@ -281,7 +250,6 @@ export const GALLERY = [
     note: '“I still think about that day and laugh out loud. People stare. Worth it.”',
     date: null,
     category: 'funny',
-    emoji: '🤣',
   },
   {
     src: 'assets/images/us-36.jpeg',
@@ -289,7 +257,6 @@ export const GALLERY = [
     note: '“No occasion, no reason — just you, just me, just special.”',
     date: null,
     category: 'special',
-    emoji: '🌟',
   },
   {
     src: 'assets/images/us-37.jpeg',
@@ -297,7 +264,6 @@ export const GALLERY = [
     note: '“I keep saying I can’t pick a favourite, and then moments like this happen.”',
     date: null,
     category: 'favorites',
-    emoji: '💖',
   },
   {
     src: 'assets/images/us-38.jpeg',
@@ -305,7 +271,6 @@ export const GALLERY = [
     note: '“Promise me we’ll always be this cute. Actually — promise me we’ll always be us.”',
     date: null,
     category: 'cute',
-    emoji: '🐾',
   },
 ];
 

@@ -1,0 +1,2009 @@
+[     586ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:21550
+[  710115ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710148ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710149ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710151ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710151ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710151ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710151ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710176ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710180ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710180ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710198ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710198ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710198ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710198ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710199ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710199ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710199ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710199ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710200ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710200ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710208ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710209ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710209ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Letter (http://localhost:5173/src/components/sections/Letter.jsx?t=1792060290918:29:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710213ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710213ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710214ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710214ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710214ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710214ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710214ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710214ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710215ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710215ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710273ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19753:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19116:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:18736:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:18879:28)
+[  710351ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710351ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710352ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710363ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710364ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710364ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710365ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710374ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710374ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710374ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710374ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710374ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710394ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710395ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710395ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710395ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710432ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710438ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710446ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710447ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710447ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710460ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710460ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710460ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710467ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710467ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710471ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710471ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710473ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710476ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710476ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710476ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710455ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Letter (http://localhost:5173/src/components/sections/Letter.jsx?t=1792060290918:29:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710456ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710456ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710457ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710458ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710458ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710458ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710458ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710458ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710458ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710459ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060290918:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710459ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060290318:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710459ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060290318:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710460ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060290318:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710460ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060290318:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710461ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060290318:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710495ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19753:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19116:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:18736:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:18879:28)
+[  710636ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710637ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710643ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710644ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710644ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710645ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710645ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710648ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710649ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710649ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710660ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710660ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710666ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710666ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710666ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710666ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710707ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710707ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710711ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710715ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710716ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710716ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710716ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710717ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710720ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710720ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710720ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710720ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710721ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710721ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710727ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710732ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  710728ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Letter (http://localhost:5173/src/components/sections/Letter.jsx?t=1792060302562:29:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710729ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060302562:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710729ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060302562:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710729ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060302562:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710729ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060302562:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710730ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060302562:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710730ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060302562:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710730ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060302562:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710731ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060302562:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710731ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060302562:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710731ms] [ERROR] The above error occurred in the <Envelope> component:
+
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:19:3)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at div
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at OpenWhen (http://localhost:5173/src/components/sections/OpenWhen.jsx?t=1792060302562:27:25)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710731ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060302606:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710732ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060302606:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710732ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060302606:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710732ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060302606:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710733ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060302606:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  710762ms] ReferenceError: sealEmoji is not defined
+    at Envelope (http://localhost:5173/src/components/ui/Envelope.jsx?t=1792060302562:56:170)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19753:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19116:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:18736:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:18879:28)
+[  759456ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  759457ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  759461ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  759461ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  759469ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  759497ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  759498ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  759506ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  759506ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  759506ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  759505ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060302606:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  759506ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060302606:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  759506ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060302606:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  759507ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060302606:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  759507ms] [ERROR] The above error occurred in the <GiftBox> component:
+
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:18:35)
+    at div
+    at Reveal (http://localhost:5173/src/components/ui/Reveal.jsx:20:34)
+    at section
+    at SectionShell (http://localhost:5173/src/components/layout/SectionShell.jsx:22:3)
+    at Gifts (http://localhost:5173/src/components/sections/Gifts.jsx?t=1792060302606:29:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  759528ms] ReferenceError: emoji is not defined
+    at GiftBox (http://localhost:5173/src/components/ui/GiftBox.jsx?t=1792060302606:55:79)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19753:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19116:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:18736:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:18879:28)
+[  861021ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5173/src/components/sections/Countdown.jsx?t=1792060453234:0
+[  861067ms] [ERROR] [hmr] Failed to reload /src/components/sections/Countdown.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  955488ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5173/src/components/sections/Countdown.jsx?t=1792060548139:0
+[  955492ms] [ERROR] [hmr] Failed to reload /src/components/sections/Countdown.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  968511ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5173/src/components/sections/Countdown.jsx?t=1792060561316:0
+[  968511ms] [ERROR] [hmr] Failed to reload /src/components/sections/Countdown.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[ 1065290ms] Error: useMusic must be used inside <MusicProvider>
+    at useMusic (http://localhost:5173/src/context/MusicContext.jsx:141:19)
+    at MusicPlayer (http://localhost:5173/src/components/layout/MusicPlayer.jsx?t=1792060401500:38:7)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+[ 1065295ms] Error: useMusic must be used inside <MusicProvider>
+    at useMusic (http://localhost:5173/src/context/MusicContext.jsx:141:19)
+    at Portal (http://localhost:5173/src/components/sections/Portal.jsx?t=1792060561316:28:20)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+[ 1065482ms] Error: useMusic must be used inside <MusicProvider>
+    at useMusic (http://localhost:5173/src/context/MusicContext.jsx:141:19)
+    at MusicPlayer (http://localhost:5173/src/components/layout/MusicPlayer.jsx?t=1792060401500:38:7)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+[ 1065491ms] Error: useMusic must be used inside <MusicProvider>
+    at useMusic (http://localhost:5173/src/context/MusicContext.jsx:141:19)
+    at Portal (http://localhost:5173/src/components/sections/Portal.jsx?t=1792060561316:28:20)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+[ 1065631ms] [ERROR] The above error occurred in the <MusicPlayer> component:
+
+    at MusicPlayer (http://localhost:5173/src/components/layout/MusicPlayer.jsx?t=1792060401500:38:7)
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx?t=1792060657410:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[ 1065633ms] [ERROR] The above error occurred in the <Portal> component:
+
+    at Portal (http://localhost:5173/src/components/sections/Portal.jsx?t=1792060561316:27:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx?t=1792060657410:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[ 1065684ms] Error: useMusic must be used inside <MusicProvider>
+    at useMusic (http://localhost:5173/src/context/MusicContext.jsx:141:19)
+    at MusicPlayer (http://localhost:5173/src/components/layout/MusicPlayer.jsx?t=1792060401500:38:7)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19753:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19116:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:18736:28)
+[ 1065688ms] [ERROR] [hmr] Failed to reload /src/App.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[ 1066191ms] [ERROR] [hmr] Failed to reload /src/App.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[ 1112705ms] [ERROR] [hmr] Failed to reload /src/App.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[ 1134513ms] Error: useMusic must be used inside <MusicProvider>
+    at useMusic (http://localhost:5173/src/context/MusicContext.jsx?t=1792060657410:141:19)
+    at MusicPlayer (http://localhost:5173/src/components/layout/MusicPlayer.jsx?t=1792060657410:38:7)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+[ 1134518ms] Error: useMusic must be used inside <MusicProvider>
+    at useMusic (http://localhost:5173/src/context/MusicContext.jsx?t=1792060657410:141:19)
+    at Portal (http://localhost:5173/src/components/sections/Portal.jsx?t=1792060657410:28:20)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+[ 1134551ms] Error: useMusic must be used inside <MusicProvider>
+    at useMusic (http://localhost:5173/src/context/MusicContext.jsx?t=1792060657410:141:19)
+    at MusicPlayer (http://localhost:5173/src/components/layout/MusicPlayer.jsx?t=1792060657410:38:7)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+[ 1134554ms] Error: useMusic must be used inside <MusicProvider>
+    at useMusic (http://localhost:5173/src/context/MusicContext.jsx?t=1792060657410:141:19)
+    at Portal (http://localhost:5173/src/components/sections/Portal.jsx?t=1792060657410:28:20)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+[ 1134578ms] [ERROR] The above error occurred in the <MusicPlayer> component:
+
+    at MusicPlayer (http://localhost:5173/src/components/layout/MusicPlayer.jsx?t=1792060657410:38:7)
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx?t=1792060727323:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[ 1134579ms] [ERROR] The above error occurred in the <Portal> component:
+
+    at Portal (http://localhost:5173/src/components/sections/Portal.jsx?t=1792060657410:27:27)
+    at main
+    at MusicProvider (http://localhost:5173/src/context/MusicContext.jsx?t=1792060727323:21:33)
+    at ProgressProvider (http://localhost:5173/src/context/ProgressContext.jsx:66:36)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[ 1134605ms] Error: useMusic must be used inside <MusicProvider>
+    at useMusic (http://localhost:5173/src/context/MusicContext.jsx?t=1792060657410:141:19)
+    at MusicPlayer (http://localhost:5173/src/components/layout/MusicPlayer.jsx?t=1792060657410:38:7)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15914:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19753:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19116:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:18736:28)
+[ 1134791ms] [ERROR] [hmr] Failed to reload /src/App.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175

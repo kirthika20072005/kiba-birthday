@@ -43,12 +43,12 @@ export default function Gallery() {
   return (
     <SectionShell id="memories" labelledBy="memories-title" className="gallery">
       <Reveal className="section-head">
-        <span className="kicker">📸 Frozen moments</span>
+        <span className="kicker">Frozen moments</span>
         <h2 className="section-title" id="memories-title">
           Our Little Universe
         </h2>
         <p className="section-sub">
-          Every frame here is us — tap any polaroid to open it big. ❤️
+          Every frame here is us — tap any polaroid to open it big.
         </p>
       </Reveal>
 
@@ -65,7 +65,7 @@ export default function Gallery() {
                 setOpenIndex(null);
               }}
             >
-              <span aria-hidden="true">{c.emoji}</span> {c.label}
+              {c.label}
             </button>
           ))}
         </div>
@@ -76,7 +76,7 @@ export default function Gallery() {
             onClick={() => setWall((v) => !v)}
             aria-pressed={wall}
           >
-            {wall ? '▦ Grid view' : '🎞️ 3D wall'}
+            {wall ? 'Grid view' : '3D wall'}
           </button>
         )}
       </Reveal>
@@ -91,7 +91,7 @@ export default function Gallery() {
               onClick={() => setOpenIndex(i % photos.length)}
               aria-label={`Open ${p.caption}`}
             >
-              <PlaceholderArt src={p.src} emoji={p.emoji} label={p.caption} ratio="3 / 4" />
+              <PlaceholderArt src={p.src} label={p.caption} ratio="3 / 4" />
             </button>
           ))}
         </div>
@@ -101,7 +101,6 @@ export default function Gallery() {
             <Reveal key={p.caption + i} delay={(i % 4) * 0.05}>
               <Polaroid
                 src={p.src}
-                emoji={p.emoji}
                 caption={p.caption}
                 date={p.date}
                 onClick={() => setOpenIndex(i)}

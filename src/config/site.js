@@ -22,17 +22,17 @@ export const SITE = {
      Find yours: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
      ------------------------------------------------------------------ */
   birthday: {
-    date: '2026-11-15T00:00:00',
+    date: '2026-10-16T00:00:00',
     timezone: 'Asia/Kolkata',
     label: 'Birthday',
   },
 
   /* --- section copy --- */
   portalMessage: 'Someone has created a little universe just for you…',
-  portalEnterLabel: 'Enter My World ❤️',
+  portalEnterLabel: 'Enter My World',
   welcomeTitle: 'Welcome to Your Own Little Universe',
   countdownLead: 'Until the day the world got even luckier than it already was.',
-  countdownPast: 'It’s your day. It’s been your day. 🎉',
+  countdownPast: 'It’s your day. It’s been your day.',
 
   /* --- palette (optional runtime copy of tokens, for JS canvas) --- */
   palette: {

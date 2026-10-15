@@ -1,13 +1,19 @@
 import { useMemo } from 'react';
 import { useReducedMotion } from '../../hooks/useReducedMotion.js';
 
+const PETAL_COLORS = ['#ff8fb3', '#ffb3dd', '#ff6b9d', '#ffc4e3'];
+
 /**
- * CSS-driven floating emoji particles (hearts, petals, etc.).
+ * CSS-driven floating particles (hearts, petals, star glyphs).
  * Cheap on mobile — no canvas, pure compositing animations.
  * Honours reduced motion by rendering nothing.
+ *
+ * shape: 'glyphs' (text symbols) | 'hearts' (CSS hearts) | 'petals' (CSS petals)
  */
 export default function ParticleField({
-  emoji = '❤️',
+  shape = 'glyphs',
+  glyphs = ['✦', '✧', '⋆'],
+  colors = PETAL_COLORS,
   count = 14,
   type = 'hearts',
   className = '',
@@ -25,9 +31,10 @@ export default function ParticleField({
         size: 12 + Math.random() * 16,
         drift: (Math.random() - 0.5) * 120,
         rotate: (Math.random() - 0.5) * 60,
-        char: Array.isArray(emoji) ? emoji[i % emoji.length] : emoji,
+        glyph: glyphs[i % glyphs.length],
+        color: colors[i % colors.length],
       })),
-    [count, emoji]
+    [count, glyphs, colors]
   );
 
   if (reduced) return null;
@@ -51,7 +58,24 @@ export default function ParticleField({
             '--rot': `${p.rotate}deg`,
           }}
         >
-          {p.char}
+          {shape === 'hearts' ? (
+            <i
+              className="shape-heart"
+              style={{ width: `${p.size * 0.9}px`, height: `${p.size * 0.9}px` }}
+            />
+          ) : shape === 'petals' ? (
+            <i
+              className="shape-petal"
+              style={{
+                width: `${p.size}px`,
+                height: `${p.size * 1.2}px`,
+                background: `linear-gradient(135deg, ${p.color}, ${p.color}88)`,
+                transform: `rotate(${p.rotate}deg)`,
+              }}
+            />
+          ) : (
+            p.glyph
+          )}
         </span>
       ))}
     </div>

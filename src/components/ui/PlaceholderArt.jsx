@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import Icon from './Icon.jsx';
 import { useImageLoad } from '../../lib/media.js';
 
 /**
@@ -7,7 +8,7 @@ import { useImageLoad } from '../../lib/media.js';
  * - `src` may be null (deliberate placeholder) or a path that failed.
  * - Falls back to an emoji + "tap to replace" hint so nothing looks broken.
  */
-export default function PlaceholderArt({ src, emoji = '🖼️', label, className = '', ratio }) {
+export default function PlaceholderArt({ src, label, className = '', ratio, icon = 'image' }) {
   const { loaded, failed } = useImageLoad(src);
   const style = ratio ? { aspectRatio: ratio } : undefined;
 
@@ -20,7 +21,9 @@ export default function PlaceholderArt({ src, emoji = '🖼️', label, classNam
   if (failed || !src) {
     return (
       <div className={`ph-art ${className}`.trim()} style={style} role="img" aria-label={label || 'Placeholder image'}>
-        <span className="ph-emoji">{emoji}</span>
+        <span className="ph-icon">
+          <Icon name={icon} size={34} />
+        </span>
         {label ? <span className="ph-label">{label}</span> : null}
         <span className="ph-hint">add your photo</span>
       </div>

@@ -21,7 +21,7 @@ export const VIDEOS = [
     src: 'assets/videos/memory-1.mp4',
     poster: null,
     embed: null, // e.g. 'https://www.youtube.com/embed/VIDEO_ID'
-    emoji: '🎬',
+    icon: 'film',
     isBirthday: false,
   },
   {
@@ -32,7 +32,7 @@ export const VIDEOS = [
     src: 'assets/videos/memory-2.mp4',
     poster: null,
     embed: null,
-    emoji: '😂',
+    icon: 'film',
     isBirthday: false,
   },
 ];
@@ -44,13 +44,13 @@ export const VIDEOS = [
 export const BIRTHDAY_VIDEO = {
   id: 'birthday',
   title: 'A Message From My Heart',
-  preRoll: 'Put on your headphones. I made something special just for you ❤️',
+  preRoll: 'Put on your headphones. I made something special just for you.',
   afterRoll:
-    '…and every word of it is true. Happy birthday, my love. 🎂❤️',
+    '…and every word of it is true. Happy birthday, my love.',
   src: 'assets/videos/birthday-message.mp4',
   poster: null,
   embed: null,
-  emoji: '🎁',
+  icon: 'film',
 };
 
 /* Graceful note shown if a video file is missing. */

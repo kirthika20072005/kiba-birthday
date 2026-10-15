@@ -4,7 +4,7 @@ import ParticleField from './ParticleField.jsx';
 export default function RosePetals({ count = 16, opacity = 0.6 }) {
   return (
     <ParticleField
-      emoji={['🌹', '🌸', '🌺', '💮']}
+      shape="petals"
       count={count}
       type="petals"
       opacity={opacity}

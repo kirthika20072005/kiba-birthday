@@ -11,11 +11,11 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-inner">
         <p className="footer-line">
-          Made with ❤️ by {YOU} — for {HIS}.
+          Made with love by {YOU} — for {HIS}.
         </p>
         <p className="footer-sub">
           Every photo, video, letter and memory on this page was picked for you, Chottu.
-          Happy birthday, my love. ❤️
+          Happy birthday, my love.
         </p>
 
         <div className="footer-actions">
@@ -42,7 +42,7 @@ export default function Footer() {
             </span>
           ) : (
             <button className="btn btn-ghost btn-sm" onClick={() => setConfirming(true)}>
-              ♻️ Reset progress
+              Reset progress
             </button>
           )}
         </div>

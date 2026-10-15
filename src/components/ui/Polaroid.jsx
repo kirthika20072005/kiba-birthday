@@ -7,7 +7,6 @@ import PlaceholderArt from './PlaceholderArt.jsx';
  */
 export default function Polaroid({
   src,
-  emoji,
   caption,
   note,
   date,
@@ -26,7 +25,7 @@ export default function Polaroid({
   const body = (
     <>
       <div className="polaroid-photo">
-        <PlaceholderArt src={src} emoji={emoji} label={caption} ratio="1 / 1" />
+        <PlaceholderArt src={src} label={caption} ratio="1 / 1" />
       </div>
       <div className="polaroid-caption">
         <span className="polaroid-text">{caption}</span>

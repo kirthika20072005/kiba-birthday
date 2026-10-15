@@ -55,10 +55,10 @@ export default function Portal() {
 
         <button className="btn btn-hero" onClick={enter}>
           <span className="btn-glow" aria-hidden="true" />
-          {entered ? 'Enter again ❤️' : SITE.portalEnterLabel}
+          {entered ? 'Enter again' : SITE.portalEnterLabel}
         </button>
 
-        <p className="portal-hint">Best experienced with sound on. 🎧</p>
+        <p className="portal-hint">Best experienced with sound on.</p>
       </div>
 
       <div className="scroll-cue" aria-hidden="true">

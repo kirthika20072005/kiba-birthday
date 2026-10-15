@@ -39,7 +39,7 @@ export default function Countdown() {
   return (
     <SectionShell id="countdown" labelledBy="countdown-title" className="countdown">
       <Reveal className="section-head">
-        <span className="kicker">⏳ The Waiting Room</span>
+        <span className="kicker">The Waiting Room</span>
         <h2 className="section-title" id="countdown-title">
           {isLive ? `${HIS}'s day is here` : isPast ? 'It was a beautiful day' : 'Counting down to you'}
         </h2>
@@ -48,7 +48,7 @@ export default function Countdown() {
 
       {isLive || isPast ? (
         <Reveal className="countdown-live glass">
-          <span className="live-emoji" aria-hidden="true">🎉🎂🎉</span>
+          <span className="live-emoji" aria-hidden="true">✦ ✦ ✦</span>
           <p className="live-title">Happy Birthday, {HIS}!</p>
           <p className="live-sub">
             The universe just added another year of you to it — and it&apos;s glowing.
@@ -66,7 +66,7 @@ export default function Countdown() {
       )}
 
       <Reveal className="countdown-note">
-        <span aria-hidden="true">🕰️</span> {SITE.birthday.label} ·{' '}
+        {SITE.birthday.label} ·{' '}
         {new Date(SITE.birthday.date).toLocaleDateString(undefined, {
           year: 'numeric',
           month: 'long',

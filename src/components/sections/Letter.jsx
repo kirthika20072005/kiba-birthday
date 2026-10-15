@@ -26,7 +26,7 @@ export default function Letter() {
     <SectionShell id="letter" labelledBy="letter-title" className="letter-section">
       <RosePetals count={8} opacity={0.35} />
       <Reveal className="section-head">
-        <span className="kicker">💌 Sealed with everything</span>
+        <span className="kicker">Sealed with everything</span>
         <h2 className="section-title" id="letter-title">
           A Letter For You
         </h2>
@@ -38,7 +38,6 @@ export default function Letter() {
           open={open}
           onToggle={toggle}
           name={MAIN_LETTER.envelopeName}
-          sealEmoji="💌"
           hue={340}
           variant="hero"
           hint="Tap to break the seal"

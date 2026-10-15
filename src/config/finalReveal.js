@@ -7,13 +7,13 @@
 
 export const FINAL = {
   lead: 'There is one more thing I have wanted to tell you…',
-  playLabel: 'Press play ❤️',
-  title: 'Happy Birthday, My Love ❤️',
+  playLabel: 'Press play',
+  title: 'Happy Birthday, My Love',
   video: {
     src: 'assets/videos/final-message.mp4',
     embed: null, // e.g. 'https://www.youtube.com/embed/VIDEO_ID'
     poster: null,
-    emoji: '❤️',
+    icon: 'film',
   },
   letter: [
     'Chottu, you made it to the last page — of this little universe, and of everything I was too shy to say out loud. So here it is, plain and simple: you are my favourite person, my safest place, and my happiest accident.',

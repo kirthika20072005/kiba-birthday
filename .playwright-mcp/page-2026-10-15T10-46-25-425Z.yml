@@ -1,0 +1,347 @@
+- generic [ref=f4e2]:
+  - banner [ref=f4e5]:
+    - generic [ref=f4e6]:
+      - link "89% explored" [ref=f4e7] [cursor=pointer]:
+        - /url: "#portal"
+      - navigation "Sections" [ref=f4e12]:
+        - list [ref=f4e13]:
+          - listitem [ref=f4e15]:
+            - button "Home" [ref=f4e16] [cursor=pointer]
+          - listitem [ref=f4e23]:
+            - button "Countdown" [ref=f4e24] [cursor=pointer]
+          - listitem [ref=f4e30]:
+            - button "The Cake" [ref=f4e31] [cursor=pointer]
+          - listitem [ref=f4e37]:
+            - button "Memories" [ref=f4e38] [cursor=pointer]
+          - listitem [ref=f4e45]:
+            - button "Videos" [ref=f4e46] [cursor=pointer]
+          - listitem [ref=f4e52]:
+            - button "Love Letters" [ref=f4e53] [cursor=pointer]
+          - listitem [ref=f4e58]:
+            - button "Open When…" [ref=f4e59] [cursor=pointer]
+          - listitem [ref=f4e65]:
+            - button "Gifts" [ref=f4e66] [cursor=pointer]
+          - listitem [ref=f4e73]:
+            - button "Final Surprise" [ref=f4e74] [cursor=pointer]
+  - generic [ref=f4e82]:
+    - button "Play soundtrack" [ref=f4e83] [cursor=pointer]:
+      - generic [aria-hidden] [ref=f4e88]: ❚❚
+    - button "Show soundtrack controls" [ref=f4e89] [cursor=pointer]: ▴
+  - main [ref=f4e90]:
+    - region "Welcome" [ref=f4e91]:
+      - generic [aria-hidden]:
+        - generic: ✦
+        - generic: ✧
+        - generic: ⋆
+        - generic: ✦
+        - generic: ✧
+        - generic: ⋆
+        - generic: ✦
+        - generic: ✧
+        - generic: ⋆
+        - generic: ✦
+        - generic: ✧
+        - generic: ⋆
+        - generic: ✦
+        - generic: ✧
+        - generic: ⋆
+        - generic: ✦
+        - generic: ✧
+        - generic: ⋆
+        - generic: ✦
+        - generic: ✧
+        - generic: ⋆
+        - generic: ✦
+      - generic [ref=f4e92]:
+        - paragraph [ref=f4e93]: Someone has created a little universe just for you…
+        - heading "A little universe for chottu" [level=1] [ref=f4e94]:
+          - text: A little universe for
+          - generic [ref=f4e95]: chottu
+        - paragraph [ref=f4e101]: A hundred quiet things I never said out loud, arranged into stars.
+        - button "Enter My World" [ref=f4e102] [cursor=pointer]
+        - paragraph [ref=f4e103]: Best experienced with sound on.
+      - generic [ref=f4e105]: scroll
+    - region [ref=f4e107]:
+      - generic [ref=f4e108]:
+        - generic [ref=f4e109]: The Waiting Room
+        - heading "Counting down to you" [level=2] [ref=f4e110]
+        - paragraph [ref=f4e111]: Until the day the world got even luckier than it already was.
+      - timer [ref=f4e112]:
+        - generic [ref=f4e113]:
+          - generic [ref=f4e114]: "00"
+          - generic [ref=f4e115]: Days
+        - generic [ref=f4e116]:
+          - generic [ref=f4e117]: "07"
+          - generic [ref=f4e118]: Hours
+        - generic [ref=f4e119]:
+          - generic [ref=f4e120]: "43"
+          - generic [ref=f4e121]: Minutes
+        - generic [ref=f4e122]:
+          - generic [ref=f4e123]: "34"
+          - generic [ref=f4e124]: Seconds
+      - generic [ref=f4e125]:
+        - text: Birthday · October 16, 2026
+        - generic [ref=f4e126]: (Asia/Kolkata)
+      - text: ✦
+    - region [ref=f4e127]:
+      - generic [ref=f4e128]:
+        - generic [ref=f4e129]: Make a wish
+        - heading "Blow out the candles" [level=2] [ref=f4e130]
+        - paragraph [ref=f4e131]: Tap each flame to blow it out — the candles flicker for you.
+      - generic [ref=f4e134]:
+        - button [ref=f4e135]
+        - button [ref=f4e138]
+        - button [ref=f4e141]
+        - button [ref=f4e144]
+        - button [ref=f4e147]
+      - button "Blow them all out at once" [ref=f4e158] [cursor=pointer]
+      - text: ✦
+    - region [ref=f4e159]:
+      - generic [ref=f4e160]:
+        - generic [ref=f4e161]: Frozen moments
+        - heading "Our Little Universe" [level=2] [ref=f4e162]
+        - paragraph [ref=f4e163]: Every frame here is us — tap any polaroid to open it big.
+      - generic [ref=f4e164]:
+        - tablist "Photo categories" [ref=f4e165]:
+          - tab "Everything" [selected] [ref=f4e166] [cursor=pointer]
+          - tab "Favorite Memories" [ref=f4e167] [cursor=pointer]
+          - tab "Cute Moments" [ref=f4e168] [cursor=pointer]
+          - tab "Funny Moments" [ref=f4e169] [cursor=pointer]
+          - tab "Special Days" [ref=f4e170] [cursor=pointer]
+        - button "3D wall" [ref=f4e171] [cursor=pointer]
+      - generic [ref=f4e172]:
+        - 'button "Open photo: The day we celebrated you" [ref=f4e174] [cursor=pointer]':
+          - generic [ref=f4e177]: The day we celebrated you
+          - generic [ref=f4e179]: View ↗
+        - 'button "Open photo: Late-night nonsense" [ref=f4e181] [cursor=pointer]':
+          - generic [ref=f4e184]: Late-night nonsense
+          - generic [ref=f4e186]: View ↗
+        - 'button "Open photo: Hand in hand" [ref=f4e188] [cursor=pointer]':
+          - generic [ref=f4e191]:
+            - generic [ref=f4e192]: Hand in hand
+            - generic [ref=f4e193]: May 18, 2025
+          - generic [ref=f4e194]: View ↗
+        - 'button "Open photo: Silly grin detector" [ref=f4e196] [cursor=pointer]':
+          - generic [ref=f4e199]: Silly grin detector
+          - generic [ref=f4e201]: View ↗
+        - 'button "Open photo: A day worth remembering" [ref=f4e203] [cursor=pointer]':
+          - generic [ref=f4e206]: A day worth remembering
+          - generic [ref=f4e208]: View ↗
+        - 'button "Open photo: Us, being us" [ref=f4e210] [cursor=pointer]':
+          - generic [ref=f4e213]: Us, being us
+          - generic [ref=f4e215]: View ↗
+        - 'button "Open photo: That look" [ref=f4e217] [cursor=pointer]':
+          - generic [ref=f4e220]: That look
+          - generic [ref=f4e222]: View ↗
+        - 'button "Open photo: Can’t stop laughing" [ref=f4e224] [cursor=pointer]':
+          - generic [ref=f4e227]: Can’t stop laughing
+          - generic [ref=f4e229]: View ↗
+        - 'button "Open photo: A little celebration" [ref=f4e231] [cursor=pointer]':
+          - generic [ref=f4e234]: A little celebration
+          - generic [ref=f4e236]: View ↗
+        - 'button "Open photo: Favorite memory" [ref=f4e238] [cursor=pointer]':
+          - generic [ref=f4e241]: Favorite memory
+          - generic [ref=f4e243]: View ↗
+        - 'button "Open photo: Cute overload" [ref=f4e245] [cursor=pointer]':
+          - generic [ref=f4e248]: Cute overload
+          - generic [ref=f4e250]: View ↗
+        - 'button "Open photo: Goofy times" [ref=f4e252] [cursor=pointer]':
+          - generic [ref=f4e255]: Goofy times
+          - generic [ref=f4e257]: View ↗
+        - 'button "Open photo: A special day" [ref=f4e259] [cursor=pointer]':
+          - generic [ref=f4e262]: A special day
+          - generic [ref=f4e264]: View ↗
+        - 'button "Open photo: Just us" [ref=f4e266] [cursor=pointer]':
+          - generic [ref=f4e269]: Just us
+          - generic [ref=f4e271]: View ↗
+        - 'button "Open photo: Sweet moment" [ref=f4e273] [cursor=pointer]':
+          - generic [ref=f4e276]: Sweet moment
+          - generic [ref=f4e278]: View ↗
+        - 'button "Open photo: Silly us" [ref=f4e280] [cursor=pointer]':
+          - generic [ref=f4e283]: Silly us
+          - generic [ref=f4e285]: View ↗
+        - 'button "Open photo: Worth framing" [ref=f4e287] [cursor=pointer]':
+          - generic [ref=f4e290]: Worth framing
+          - generic [ref=f4e292]: View ↗
+        - 'button "Open photo: My favorite view" [ref=f4e294] [cursor=pointer]':
+          - generic [ref=f4e297]: My favorite view
+          - generic [ref=f4e299]: View ↗
+        - 'button "Open photo: Pocketful of cute" [ref=f4e301] [cursor=pointer]':
+          - generic [ref=f4e304]: Pocketful of cute
+          - generic [ref=f4e306]: View ↗
+        - 'button "Open photo: Laugh attack" [ref=f4e308] [cursor=pointer]':
+          - generic [ref=f4e311]: Laugh attack
+          - generic [ref=f4e313]: View ↗
+        - 'button "Open photo: Golden day" [ref=f4e315] [cursor=pointer]':
+          - generic [ref=f4e318]: Golden day
+          - generic [ref=f4e320]: View ↗
+        - 'button "Open photo: Heart-full moment" [ref=f4e322] [cursor=pointer]':
+          - generic [ref=f4e325]: Heart-full moment
+          - generic [ref=f4e327]: View ↗
+        - 'button "Open photo: Soft smiles" [ref=f4e329] [cursor=pointer]':
+          - generic [ref=f4e332]: Soft smiles
+          - generic [ref=f4e334]: View ↗
+        - 'button "Open photo: Comedy gold" [ref=f4e336] [cursor=pointer]':
+          - generic [ref=f4e339]: Comedy gold
+          - generic [ref=f4e341]: View ↗
+        - 'button "Open photo: Shiny happy us" [ref=f4e343] [cursor=pointer]':
+          - generic [ref=f4e346]: Shiny happy us
+          - generic [ref=f4e348]: View ↗
+        - 'button "Open photo: Forever favorite" [ref=f4e350] [cursor=pointer]':
+          - generic [ref=f4e353]: Forever favorite
+          - generic [ref=f4e355]: View ↗
+        - 'button "Open photo: Cuteness, kept" [ref=f4e357] [cursor=pointer]':
+          - generic [ref=f4e360]: Cuteness, kept
+          - generic [ref=f4e362]: View ↗
+        - 'button "Open photo: Inside joke energy" [ref=f4e364] [cursor=pointer]':
+          - generic [ref=f4e367]: Inside joke energy
+          - generic [ref=f4e369]: View ↗
+        - 'button "Open photo: A day to keep" [ref=f4e371] [cursor=pointer]':
+          - generic [ref=f4e374]: A day to keep
+          - generic [ref=f4e376]: View ↗
+        - 'button "Open photo: Us again" [ref=f4e378] [cursor=pointer]':
+          - generic [ref=f4e381]: Us again
+          - generic [ref=f4e383]: View ↗
+        - 'button "Open photo: Little joys" [ref=f4e385] [cursor=pointer]':
+          - generic [ref=f4e388]: Little joys
+          - generic [ref=f4e390]: View ↗
+        - 'button "Open photo: That funny day" [ref=f4e392] [cursor=pointer]':
+          - generic [ref=f4e395]: That funny day
+          - generic [ref=f4e397]: View ↗
+        - 'button "Open photo: Special, just because" [ref=f4e399] [cursor=pointer]':
+          - generic [ref=f4e402]: Special, just because
+          - generic [ref=f4e404]: View ↗
+        - 'button "Open photo: One more favorite" [ref=f4e406] [cursor=pointer]':
+          - generic [ref=f4e409]: One more favorite
+          - generic [ref=f4e411]: View ↗
+        - 'button "Open photo: Stay cute with me" [ref=f4e413] [cursor=pointer]':
+          - generic [ref=f4e416]: Stay cute with me
+          - generic [ref=f4e418]: View ↗
+      - text: ✦
+    - region [ref=f4e419]:
+      - generic [ref=f4e420]:
+        - generic [ref=f4e421]: In motion
+        - heading "Moments That Move" [level=2] [ref=f4e422]
+        - paragraph [ref=f4e423]:
+          - text: Add clips to
+          - code [ref=f4e424]: public/assets/videos/
+          - text: . Until then, these are gentle placeholders.
+      - generic [ref=f4e425]:
+        - generic [ref=f4e429]:
+          - heading "That trip we keep talking about" [level=3] [ref=f4e430]
+          - paragraph [ref=f4e435]: A little clip from a day I never want to forget.
+          - button "Play" [ref=f4e436] [cursor=pointer]
+        - generic [ref=f4e440]:
+          - heading "Between two laughing fits" [level=3] [ref=f4e441]
+          - paragraph [ref=f4e446]: Proof that we can make each other laugh anywhere.
+          - button "Play" [ref=f4e447] [cursor=pointer]
+      - generic [ref=f4e448]:
+        - generic [ref=f4e449]:
+          - text: A special one
+          - heading "A Message From My Heart" [level=3] [ref=f4e450]
+          - paragraph [ref=f4e451]: Put on your headphones. I made something special just for you.
+        - button "Watch the message" [ref=f4e452] [cursor=pointer]
+      - text: ✦
+    - region [ref=f4e453]:
+      - generic [ref=f4e454]:
+        - generic [ref=f4e455]: Sealed with everything
+        - heading "A Letter For You" [level=2] [ref=f4e456]
+        - paragraph [ref=f4e457]: The whole reason this universe exists, really.
+      - button "Happy Birthday, My Love — Tap to break the seal" [ref=f4e460]:
+        - generic [ref=f4e466]:
+          - generic [ref=f4e467]: Happy Birthday, My Love
+          - generic [ref=f4e468]: Tap to break the seal
+      - text: ✦
+    - region [ref=f4e469]:
+      - generic [ref=f4e470]:
+        - generic [ref=f4e471]: Just in case
+        - heading "Open When…" [level=2] [ref=f4e472]
+        - paragraph [ref=f4e473]:
+          - text: Little letters for the moments in between. Open the one that matches the moment.
+          - generic [ref=f4e474]: 2/10 opened
+      - generic [ref=f4e475]:
+        - button "Open when you miss me — Open" [ref=f4e478]:
+          - generic [ref=f4e484]:
+            - generic [ref=f4e485]: Open when you miss me
+            - generic [ref=f4e486]: Open
+        - button "Open when you feel sad — Open" [ref=f4e489]:
+          - generic [ref=f4e495]:
+            - generic [ref=f4e496]: Open when you feel sad
+            - generic [ref=f4e497]: Open
+        - button "Open when you need a hug — Open" [ref=f4e500]:
+          - generic [ref=f4e506]:
+            - generic [ref=f4e507]: Open when you need a hug
+            - generic [ref=f4e508]: Open
+        - button "Open when you feel lonely — Open" [ref=f4e511]:
+          - generic [ref=f4e517]:
+            - generic [ref=f4e518]: Open when you feel lonely
+            - generic [ref=f4e519]: Open
+        - button "Open when you need motivation — Open" [ref=f4e522]:
+          - generic [ref=f4e528]:
+            - generic [ref=f4e529]: Open when you need motivation
+            - generic [ref=f4e530]: Open
+        - button "Open when you want to smile — Open" [ref=f4e533]:
+          - generic [ref=f4e539]:
+            - generic [ref=f4e540]: Open when you want to smile
+            - generic [ref=f4e541]: Open
+        - button "Open when you wonder why I love you — Open" [ref=f4e544]:
+          - generic [ref=f4e550]:
+            - generic [ref=f4e551]: Open when you wonder why I love you
+            - generic [ref=f4e552]: Open
+        - button "Open when you need reassurance — Open" [ref=f4e555]:
+          - generic [ref=f4e561]:
+            - generic [ref=f4e562]: Open when you need reassurance
+            - generic [ref=f4e563]: Open
+        - button "Open on our next anniversary — Open" [ref=f4e566]:
+          - generic [ref=f4e572]:
+            - generic [ref=f4e573]: Open on our next anniversary
+            - generic [ref=f4e574]: Open
+        - button "Open when you want to imagine our future — Open" [ref=f4e577]:
+          - generic [ref=f4e583]:
+            - generic [ref=f4e584]: Open when you want to imagine our future
+            - generic [ref=f4e585]: Open
+      - text: ✦
+    - region [ref=f4e586]:
+      - generic [ref=f4e587]:
+        - generic [ref=f4e588]: Wrapped for you
+        - heading "A Few Gifts" [level=2] [ref=f4e589]
+        - paragraph [ref=f4e590]: Open them in any order — but save the big one for last.
+      - generic [ref=f4e591]:
+        - 'button "Open gift: A Small Note" [ref=f4e592] [cursor=pointer]':
+          - generic [aria-hidden] [ref=f4e593]: ✦
+          - generic [ref=f4e607]: A Small Note
+          - generic [ref=f4e608]: Open me
+        - 'button "Open gift: A Memory" [ref=f4e609] [cursor=pointer]':
+          - generic [aria-hidden] [ref=f4e610]: ✦
+          - generic [ref=f4e625]: A Memory
+          - generic [ref=f4e626]: Open me
+        - 'button "Open gift: A Promise For You" [ref=f4e627] [cursor=pointer]':
+          - generic [aria-hidden] [ref=f4e628]: ✦
+          - generic [ref=f4e641]: A Promise For You
+          - generic [ref=f4e642]: Open me
+        - 'button "Open gift: Something Real" [ref=f4e643] [cursor=pointer]':
+          - generic [aria-hidden] [ref=f4e644]: ✦
+          - generic [ref=f4e659]: Something Real
+          - generic [ref=f4e660]: Open me
+        - 'button "Open gift: The Last, Big One" [ref=f4e661] [cursor=pointer]':
+          - generic [aria-hidden] [ref=f4e662]: ✦
+          - generic [ref=f4e675]: The Last, Big One
+          - generic [ref=f4e676]: Open me
+      - text: ✦
+    - region [ref=f4e677]:
+      - generic [ref=f4e678]:
+        - generic [ref=f4e679]: The last page
+        - heading "Happy Birthday, My Love" [level=2] [ref=f4e680]
+      - generic [ref=f4e681]:
+        - paragraph [ref=f4e682]: There is one more thing I have wanted to tell you…
+        - button "Press play" [ref=f4e683] [cursor=pointer]
+        - paragraph [ref=f4e684]: You can jump here any time from the menu — no need to finish every game first.
+      - text: ✦
+  - contentinfo [ref=f4e685]:
+    - generic [ref=f4e686]:
+      - paragraph [ref=f4e687]: Made with love by Bujik — for chottu.
+      - paragraph [ref=f4e688]: Every photo, video, letter and memory on this page was picked for you, Chottu. Happy birthday, my love.
+      - generic [ref=f4e689]:
+        - button "↑ Back to start" [ref=f4e690] [cursor=pointer]
+        - button "Reset progress" [ref=f4e691] [cursor=pointer]
+      - paragraph [ref=f4e692]: Progress is saved in this browser only. Resetting clears what you've opened.

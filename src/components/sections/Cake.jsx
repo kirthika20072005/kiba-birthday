@@ -40,7 +40,7 @@ export default function Cake() {
   return (
     <SectionShell id="cake" labelledBy="cake-title" className="cake-section">
       <Reveal className="section-head">
-        <span className="kicker">🎂 Make a wish</span>
+        <span className="kicker">Make a wish</span>
         <h2 className="section-title" id="cake-title">
           Blow out the candles
         </h2>
@@ -89,11 +89,11 @@ export default function Cake() {
       <Reveal className="cake-controls">
         {!allOut ? (
           <button className="btn btn-primary" onClick={blowAll}>
-            🌬️ Blow them all out at once
+            Blow them all out at once
           </button>
         ) : (
           <button className="btn btn-ghost" onClick={relight}>
-            🔥 Light them again
+            Light them again
           </button>
         )}
       </Reveal>
@@ -103,8 +103,8 @@ export default function Cake() {
           <Typewriter
             text={
               reduced
-                ? `Happy birthday, ${HIS}. I wished for you — but I already have you, so I wished for us. ❤️`
-                : `Happy birthday, ${HIS}. I wished for you — but I already have you, so I wished for us. ❤️`
+                ? `Happy birthday, ${HIS}. I wished for you — but I already have you, so I wished for us.`
+                : `Happy birthday, ${HIS}. I wished for you — but I already have you, so I wished for us.`
             }
             speed={38}
           />
