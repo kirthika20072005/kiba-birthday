@@ -1,0 +1,61 @@
+[    1106ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:21550
+[  493202ms] ReferenceError: Reasons is not defined
+    at App (http://localhost:5173/src/App.jsx?t=1792053626583:109:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  493204ms] ReferenceError: Reasons is not defined
+    at App (http://localhost:5173/src/App.jsx?t=1792053626583:109:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+[  493207ms] [ERROR] The above error occurred in the <App> component:
+
+    at App (http://localhost:5173/src/App.jsx?t=1792053626583:109:30)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14031
+[  493222ms] ReferenceError: Reasons is not defined
+    at App (http://localhost:5173/src/App.jsx?t=1792053626583:109:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:15924:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19753:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19137:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:19116:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:18736:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:18879:28)
+[  583162ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/src/components/sections/Reasons.jsx?t=1792053716636:0
+[  583171ms] [ERROR] [hmr] Failed to reload /src/components/sections/Reasons.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  583171ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/src/components/sections/Chatbot.jsx?t=1792053716679:0
+[  583174ms] [ERROR] [hmr] Failed to reload /src/components/sections/Chatbot.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  583222ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/src/components/sections/Games.jsx?t=1792053716645:0
+[  583236ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/src/components/sections/Garden.jsx?t=1792053716685:0
+[  583246ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/src/components/sections/Vault.jsx?t=1792053716692:0
+[  583258ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/src/components/sections/StarMap.jsx?t=1792053716653:0
+[  583260ms] [ERROR] [hmr] Failed to reload /src/components/sections/Games.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  583274ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/src/components/sections/Hunt.jsx?t=1792053716698:0
+[  583278ms] [ERROR] [hmr] Failed to reload /src/components/sections/Garden.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  583278ms] [ERROR] [hmr] Failed to reload /src/components/sections/Vault.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  583284ms] [ERROR] [hmr] Failed to reload /src/components/sections/StarMap.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  583284ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/src/components/sections/FutureLetter.jsx?t=1792053716658:0
+[  583287ms] [ERROR] [hmr] Failed to reload /src/components/sections/Hunt.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  583288ms] [ERROR] [hmr] Failed to reload /src/components/sections/FutureLetter.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  583314ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/src/components/sections/Coupons.jsx?t=1792053716666:0
+[  583315ms] [ERROR] [hmr] Failed to reload /src/components/sections/Coupons.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  583363ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/src/components/sections/Moods.jsx?t=1792053716674:0
+[  583366ms] [ERROR] [hmr] Failed to reload /src/components/sections/Moods.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  584324ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=60bab961:21550

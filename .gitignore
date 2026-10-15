@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vite
+
+# Do NOT commit large personal media by mistake — see README.
+# Uncomment the next line if you would rather keep personal media out of git.
+# public/assets/videos/*.mp4
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea

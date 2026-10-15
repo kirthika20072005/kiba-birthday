@@ -1,0 +1,12 @@
+/* ============================================================
+   FONTS
+   ------------------------------------------------------------
+   We use two Google Fonts loaded via CSS @import for zero setup:
+     - "Great Vibes"        : romantic cursive display
+     - "Cormorant Garamond" : elegant serif for letters/quotes
+     - "Inter"              : clean modern UI text
+   If you are offline or want faster loads, download the woff2
+   files into /public/assets/fonts and switch to @font-face with
+   a local `src:` — see README "Fonts".
+   ============================================================ */
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500;600;700&display=swap');
