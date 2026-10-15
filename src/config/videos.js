@@ -24,17 +24,6 @@ export const VIDEOS = [
     icon: 'film',
     isBirthday: false,
   },
-  {
-    id: 'memory-2',
-    title: 'Between two laughing fits',
-    caption: 'Proof that we can make each other laugh anywhere.',
-    date: null,
-    src: 'assets/videos/memory-2.mp4',
-    poster: null,
-    embed: null,
-    icon: 'film',
-    isBirthday: false,
-  },
 ];
 
 /* ------------------------------------------------------------
